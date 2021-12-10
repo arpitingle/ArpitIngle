@@ -1,9 +1,4 @@
-### Hello There 👋
-
-<!--
-**ArpitIngle/ArpitIngle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello There 👋 , I am Arpit 
 
 - 🔭 I’m currently working on a secret project.
 - 🌱 I’m currently learning JS and Solidity.
