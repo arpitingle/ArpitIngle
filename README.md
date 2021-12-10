@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on web3 projects.
 - 🤔 I’m looking for help with Smart Contracts.
 - 💬 Ask me about anything tech.
-- 📫 How to reach me: [Twitter] (https://twitter.com/arpitingle) 
+- 📫 How to reach me: [Twitter](https://twitter.com/arpitingle) 
 - ⚡ Fun fact: I like anime and mangas.
 
