@@ -8,4 +8,4 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/arpitingle) 
 - ⚡ Fun fact: I like anime and mangas.
 
-[![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpitIngle)]
+[Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpitIngle&show_icons=true&theme=dracula)
