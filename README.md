@@ -9,3 +9,5 @@
 - ⚡ Fun fact: I like anime and mangas.
 
 [![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpitIngle&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitIngle)](https://github.com/anuraghazra/github-readme-stats)
+
