@@ -1,1 +1,1 @@
-Blockchain , Layer 2 , zkp 
+# Interested in Ethereum, scaling solutions, MEV, zkp and general technology.
