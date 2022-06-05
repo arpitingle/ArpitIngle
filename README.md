@@ -1,1 +1,1 @@
-## Interested in Ethereum, scaling solutions, MEV, zkp and general technology.
+## Interested in Ethereum, scaling solutions, MEV, zkp, ReFi and general technology.
