@@ -1,1 +1,1 @@
-## Exploring StarkNet 
+## Exploring zk-STARKs 
