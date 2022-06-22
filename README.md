@@ -1,1 +1,1 @@
-## Exploring zk-STARKs 
+## Exploring 
