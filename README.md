@@ -1,1 +1,1 @@
-### learning cs
+### learning cs and maths
