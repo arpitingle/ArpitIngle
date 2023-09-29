@@ -1,1 +1,1 @@
-### learning cs and maths
+### cs undergrad. learning ml, maths. tinkering with hardware
